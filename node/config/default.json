@@ -1,6 +1,6 @@
 {
-    "appSecret": "3cd3a56d0d18ad3ea39ec2818658fe8e",
-    "pageAccessToken": "EAAaE4y2KvjEBAIQZB1RUn9fmzQRzFOhpwGvWEkh15a8bZBAcljCuHFGHXTvoLF3zuYwLjFjbiUNMzw75s9XCy9ZBPnzQq92mbsZAnJp2kfu5jIH5CZB3TjWsErGG5uvorBRtKghf5rQtv7Uu7oVe2R9cTD4DIgNG7IysxLBo2CAZDZD",
+    "appSecret": "e1daf53da12054847027af765074466e",
+    "pageAccessToken": "EAAKAzAhrnAkBANUe5v893Of4zg3wIwF4fn9JrMC7jSHppdOxKHJiDvf2gu0pZArzHMfs4DrmDmV6mcSSQJf5V8U0ZCF9PAdbZAMonhq9u68cxcsKJ7wGesNBIxWXhIN1PpqqTIZCRPZATH7EW5I4rDyACIqDQU5J8fmvXWFUcFAZDZD",
     "validationToken": "verify_token",
-    "serverURL": "https://tetmaapi-quanton.c9users.io"
+    "serverURL": "https://tetmaapi-cloned-quanton.c9users.io"
 }
